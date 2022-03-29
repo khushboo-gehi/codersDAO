@@ -1,8 +1,8 @@
 # codersDAO
 
 ### **Welcome to codersDAO 👋**
-This DAO is by the codersHQ community for the codersHQ community. 
-The DAO is built using buildspace and thirdweb on Rinkeby testnet using Etherium blockchain. The DAO is now in development stage and only accepting limited members.
+This is a prototype for the codersHQ community DAO. 
+The DAO is built using buildspace and thirdweb on Rinkeby testnet using Etherium blockchain. 
 
 Here is a little demo walk through of the DAO -
 
